@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qnicod
+- 👋 Hi, I’m Quentin Nicod
 - 👀 I’m interested in Software developement and Web developement.
 - 🌱 I’m currently learning at Epitech Rennes -> Prom's 2025
 
