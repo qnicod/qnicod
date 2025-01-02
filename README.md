@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quent</h1>
+<h1 align="center">Hi 👋, I'm Quentin Nicod</h1>
 <h3 align="center">A work-study student from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qnicod&label=Profile%20views&color=0e75b6&style=flat" alt="qnicod" /> </p>
@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qnicod" alt="qnicod" /></a> </p>
 
 - 🌱 I’m currently learning **a lots of technology !**
+
+- 💬 Ask me about **devops technology**
 
 - 📫 How to reach me **quentin.nicod@epitech.eu**
 
